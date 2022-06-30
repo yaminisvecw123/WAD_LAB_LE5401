@@ -1,0 +1,26 @@
+h1{
+ color: hsl(50%, 10%, 50%);
+ font-family: monospace;
+ border-style: dashed;
+ border-color: greenyellow;
+ text-align: center;
+}
+h2{
+ color: hotpink;
+ font-family: serif;
+}
+h3{
+ color: gray;
+ font-family:initial ;
+}
+h4{
+ color: darkcyan;
+ font-family:cursive ;
+}
+img{
+ height: 200px;
+ width: 180px;
+ border-style: ridge;
+ border-width: 8px;
+ border-color: orchid;
+}
