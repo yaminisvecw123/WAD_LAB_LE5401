@@ -1,0 +1,54 @@
+ h1{
+ color : blueviolet;
+ font-style : times new roman;
+}
+h3{
+ color : blueviolet;
+ text-transform:  uppercase;
+ font : italic;
+}
+h5{
+ color : hotpink;
+ text-transform: uppercase;
+ font : bold;
+}
+td{
+ color : black;
+ font : monospace;
+}
+u1{
+ color : black;
+ font : bold;
+}
+p{
+ color : black;
+ font : italic;
+}
+big{
+ color : hotpink;
+ font-family:  cursive;
+}
+table{
+ color:  blueviolet;
+ font-family:  monospace;
+}
+i{
+ color : blueviolet;
+ font-style:  oblique;
+}
+strong{
+ color: blueviolet;
+ font-display:  block;
+}
+b{
+ color: hotpink;
+ font-family: cursive;
+}
+th{
+ color:  black;
+ font-family: monospace;
+}
+li{
+ color:  black;
+ font-family: monospace;
+}
